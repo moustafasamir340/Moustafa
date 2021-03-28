@@ -22,12 +22,12 @@
         <th> <h5 align="center">Web</h5></a></th>
         </tr>
   <tr>
-    <td align="center">
+    < align="center">
       <br>
       <img alt="" width="400" src="https://i.morioh.com/70f0189969.png">
       <img width="900" height="1" alt="">
     </td>
-    <td align="center">
+    < align="center">
       <br>
       <img alt="" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtUYK8NcPLZ9FMbpYt2spnEgZ-kMdsDb9QXQ&usqp=CAU">
       <img width="900" height="1" alt="">
@@ -38,7 +38,7 @@
     <th><a  align="center">Info about me</h5></a></th>
   </tr>
   <tr>
-   <td align="center">
+   <align="center">
       <br>
       <img alt="" width="400" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
       <img width="900" height="1" alt="">
