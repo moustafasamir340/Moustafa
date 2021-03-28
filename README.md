@@ -16,7 +16,7 @@
       <br>
      - 🌱 I’m currently learning : Python
 <br>
-- 💬 Ask me about : Laravel, Angular and Fultter**
+- 💬 Ask me about : Laravel and Fultter
 <br>
 - ⚡ Fun fact : coffee
   </p>
