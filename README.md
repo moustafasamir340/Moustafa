@@ -25,6 +25,8 @@
 - ⚡ Fun fact : coffee
     </td>
 </table>
+      <img alt="" width="1000" src="https://peerbits-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/full-stack-development-Feature.jpg">
+
 
 
   
