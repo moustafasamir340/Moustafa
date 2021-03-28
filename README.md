@@ -22,12 +22,12 @@
         <th> <h5 align="center">Web</h5></a></th>
         </tr>
   <tr>
-    < align="center">
+    <th align="center">
       <br>
       <img alt="" width="400" src="https://i.morioh.com/70f0189969.png">
       <img width="900" height="1" alt="">
     </td>
-    < align="center">
+    <th  align="center">
       <br>
       <img alt="" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtUYK8NcPLZ9FMbpYt2spnEgZ-kMdsDb9QXQ&usqp=CAU">
       <img width="900" height="1" alt="">
